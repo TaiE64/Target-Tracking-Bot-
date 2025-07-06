@@ -1,0 +1,8 @@
+prefix=/home/taie/Desktop/Antobot/devel_isolated/antobot_gazebo
+
+Name: antobot_gazebo
+Description: Description of antobot_gazebo
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: urdf xacro

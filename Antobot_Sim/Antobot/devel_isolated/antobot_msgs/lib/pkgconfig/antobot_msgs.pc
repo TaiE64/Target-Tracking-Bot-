@@ -1,0 +1,8 @@
+prefix=/home/taie/Desktop/Antobot/devel_isolated/antobot_msgs
+
+Name: antobot_msgs
+Description: Description of antobot_msgs
+Version: 0.0.1
+Cflags: -I/home/taie/Desktop/Antobot/devel_isolated/antobot_msgs/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs

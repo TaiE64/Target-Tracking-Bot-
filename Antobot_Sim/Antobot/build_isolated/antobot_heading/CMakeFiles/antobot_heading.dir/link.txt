@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libantobot_heading.so -o /home/taie/Desktop/Antobot/devel_isolated/antobot_heading/lib/libantobot_heading.so CMakeFiles/antobot_heading.dir/src/antobot_heading.cpp.o 

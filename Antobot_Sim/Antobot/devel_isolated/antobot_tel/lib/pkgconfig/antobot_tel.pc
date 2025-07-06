@@ -1,0 +1,8 @@
+prefix=/home/taie/Desktop/Antobot/devel_isolated/antobot_tel
+
+Name: antobot_tel
+Description: Description of antobot_tel
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

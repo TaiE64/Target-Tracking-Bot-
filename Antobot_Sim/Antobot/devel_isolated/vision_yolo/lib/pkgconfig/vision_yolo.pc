@@ -1,0 +1,8 @@
+prefix=/home/taie/Desktop/Antobot/devel_isolated/vision_yolo
+
+Name: vision_yolo
+Description: Description of vision_yolo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

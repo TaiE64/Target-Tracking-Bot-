@@ -1,0 +1,6 @@
+AntobotSDK/antobot_localisation/antobot_heading
+/home/taie/Desktop/Antobot/devel/.private/antobot_heading/lib/libantobot_heading.so /home/taie/Desktop/Antobot/devel/lib/libantobot_heading.so
+/home/taie/Desktop/Antobot/devel/.private/antobot_heading/lib/antobot_heading/antobot_heading_node /home/taie/Desktop/Antobot/devel/lib/antobot_heading/antobot_heading_node
+/home/taie/Desktop/Antobot/devel/.private/antobot_heading/lib/pkgconfig/antobot_heading.pc /home/taie/Desktop/Antobot/devel/lib/pkgconfig/antobot_heading.pc
+/home/taie/Desktop/Antobot/devel/.private/antobot_heading/share/antobot_heading/cmake/antobot_headingConfig-version.cmake /home/taie/Desktop/Antobot/devel/share/antobot_heading/cmake/antobot_headingConfig-version.cmake
+/home/taie/Desktop/Antobot/devel/.private/antobot_heading/share/antobot_heading/cmake/antobot_headingConfig.cmake /home/taie/Desktop/Antobot/devel/share/antobot_heading/cmake/antobot_headingConfig.cmake

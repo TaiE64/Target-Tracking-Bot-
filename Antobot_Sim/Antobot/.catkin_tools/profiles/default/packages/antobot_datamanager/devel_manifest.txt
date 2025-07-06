@@ -1,0 +1,5 @@
+AntobotSDK/antobot_datamanager
+/home/taie/Desktop/Antobot/devel/.private/antobot_datamanager/lib/python3/dist-packages/antobot_datamanager/__init__.py /home/taie/Desktop/Antobot/devel/lib/python3/dist-packages/antobot_datamanager/__init__.py
+/home/taie/Desktop/Antobot/devel/.private/antobot_datamanager/lib/pkgconfig/antobot_datamanager.pc /home/taie/Desktop/Antobot/devel/lib/pkgconfig/antobot_datamanager.pc
+/home/taie/Desktop/Antobot/devel/.private/antobot_datamanager/share/antobot_datamanager/cmake/antobot_datamanagerConfig-version.cmake /home/taie/Desktop/Antobot/devel/share/antobot_datamanager/cmake/antobot_datamanagerConfig-version.cmake
+/home/taie/Desktop/Antobot/devel/.private/antobot_datamanager/share/antobot_datamanager/cmake/antobot_datamanagerConfig.cmake /home/taie/Desktop/Antobot/devel/share/antobot_datamanager/cmake/antobot_datamanagerConfig.cmake

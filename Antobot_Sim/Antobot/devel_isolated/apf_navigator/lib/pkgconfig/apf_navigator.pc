@@ -1,0 +1,8 @@
+prefix=/home/taie/Desktop/Antobot/devel_isolated/apf_navigator
+
+Name: apf_navigator
+Description: Description of apf_navigator
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

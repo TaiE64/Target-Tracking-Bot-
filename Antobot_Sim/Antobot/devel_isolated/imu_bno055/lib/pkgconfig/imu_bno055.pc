@@ -1,0 +1,8 @@
+prefix=/home/taie/Desktop/Antobot/devel_isolated/imu_bno055
+
+Name: imu_bno055
+Description: Description of imu_bno055
+Version: 2.0.0
+Cflags: -I/home/taie/Desktop/Antobot/src/ros-imu-bno055/include
+Libs: -L${prefix}/lib 
+Requires: 

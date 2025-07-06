@@ -1,0 +1,8 @@
+prefix=/home/taie/Desktop/Antobot/install_isolated
+
+Name: antobot_gps
+Description: Description of antobot_gps
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

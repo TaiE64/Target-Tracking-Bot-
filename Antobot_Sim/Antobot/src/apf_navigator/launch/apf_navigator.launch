@@ -1,0 +1,24 @@
+<launch>
+  <!-- 启动 APF 导航节点 -->
+  <node pkg="apf_navigator" type="apf_node.py" name="apf_navigator" output="screen"/>
+ 
+  <!-- 启动前向 ZED 点云转 LaserScan 节点 -->
+  <node pkg="pointcloud_to_laserscan" type="pointcloud_to_laserscan_node" name="pointcloud_to_laserscan_front" output="screen">
+    <remap from="cloud_in" to="/zed2i/zed_node/point_cloud/cloud_registered"/>
+    <remap from="scan" to="/camera/scan/front" />
+    
+    <param name="target_frame" value="zed2i_left_camera_frame"/>  <!-- 根据你的TF树而定 -->
+    <param name="transform_tolerance" value="0.01"/>
+    <param name="min_height" value="0.1"/>
+    <param name="max_height" value="2.0"/>
+ 
+    <param name="angle_min" value="-3.14"/>
+    <param name="angle_max" value="3.14"/>
+    <param name="angle_increment" value="0.0087"/>
+    <param name="scan_time" value="0.1"/>
+    <param name="range_min" value="0.3"/>
+    <param name="range_max" value="10.0"/>
+    <param name="use_inf" value="true"/>
+    <param name="concurrency_level" value="1"/>
+  </node>
+</launch>

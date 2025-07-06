@@ -1,0 +1,8 @@
+prefix=/home/taie/Desktop/Antobot/devel_isolated/antobot_ekf
+
+Name: antobot_ekf
+Description: Description of antobot_ekf
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

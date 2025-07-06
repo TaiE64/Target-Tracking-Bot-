@@ -1,0 +1,8 @@
+prefix=/home/taie/Desktop/Antobot/devel_isolated/ekf_tracker
+
+Name: ekf_tracker
+Description: Description of ekf_tracker
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

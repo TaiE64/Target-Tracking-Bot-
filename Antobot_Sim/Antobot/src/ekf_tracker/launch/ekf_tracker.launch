@@ -1,0 +1,13 @@
+<launch>
+  <!-- ✅ Start the EKF node -->
+  <node pkg="ekf_tracker"
+        type="ekf_tracker_node.py"
+        name="ekf_tracker"
+        output="screen">
+    <param name="use_sim_time" value="false" />
+  </node>
+
+  <include file="$(find antobot_ekf)/launch/navsat_transform.launch" />
+
+</launch>
+

@@ -1,0 +1,6 @@
+AntobotSDK/antobot_base
+/home/taie/Desktop/Antobot/devel/.private/antobot_base/lib/libantobot_base.so /home/taie/Desktop/Antobot/devel/lib/libantobot_base.so
+/home/taie/Desktop/Antobot/devel/.private/antobot_base/lib/antobot_base/antobot_control_node /home/taie/Desktop/Antobot/devel/lib/antobot_base/antobot_control_node
+/home/taie/Desktop/Antobot/devel/.private/antobot_base/lib/pkgconfig/antobot_base.pc /home/taie/Desktop/Antobot/devel/lib/pkgconfig/antobot_base.pc
+/home/taie/Desktop/Antobot/devel/.private/antobot_base/share/antobot_base/cmake/antobot_baseConfig.cmake /home/taie/Desktop/Antobot/devel/share/antobot_base/cmake/antobot_baseConfig.cmake
+/home/taie/Desktop/Antobot/devel/.private/antobot_base/share/antobot_base/cmake/antobot_baseConfig-version.cmake /home/taie/Desktop/Antobot/devel/share/antobot_base/cmake/antobot_baseConfig-version.cmake

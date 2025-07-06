@@ -1,0 +1,20 @@
+<launch>
+  <!-- (1) Start YOLO Vision Node -->
+  <node name="yolo_vision_node" pkg="vision_yolo" type="yolo_vision_node.py" output="screen"/>
+
+  <!-- (2) Spawn Human Model in Gazebo -->
+  <node name="spawn_human_model" pkg="gazebo_ros" type="spawn_model" 
+        args="-file $(find antobot_gazebo)/models/human/actor_model.sdf -sdf -model person_standing -x 0 -y 4 -z 0 -Y 1.57" 
+        output="screen"/>
+
+  <!-- (3) Start the target_pixel_to_3d node-->
+    <node pkg="vision_yolo"
+          type="target_pixel_to_3d.py"
+          name="target_pixel_to_3d"
+          output="screen">
+      <param name="use_sim_time" value="false" />
+    </node>
+
+  <include file="$(find antobot_ekf)/launch/ekf.launch" />
+
+</launch>

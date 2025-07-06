@@ -1,0 +1,5 @@
+zed-ros-wrapper/zed_wrapper
+/home/taie/Desktop/Antobot/devel/.private/zed_wrapper/lib/zed_wrapper/zed_wrapper_node /home/taie/Desktop/Antobot/devel/lib/zed_wrapper/zed_wrapper_node
+/home/taie/Desktop/Antobot/devel/.private/zed_wrapper/lib/pkgconfig/zed_wrapper.pc /home/taie/Desktop/Antobot/devel/lib/pkgconfig/zed_wrapper.pc
+/home/taie/Desktop/Antobot/devel/.private/zed_wrapper/share/zed_wrapper/cmake/zed_wrapperConfig-version.cmake /home/taie/Desktop/Antobot/devel/share/zed_wrapper/cmake/zed_wrapperConfig-version.cmake
+/home/taie/Desktop/Antobot/devel/.private/zed_wrapper/share/zed_wrapper/cmake/zed_wrapperConfig.cmake /home/taie/Desktop/Antobot/devel/share/zed_wrapper/cmake/zed_wrapperConfig.cmake

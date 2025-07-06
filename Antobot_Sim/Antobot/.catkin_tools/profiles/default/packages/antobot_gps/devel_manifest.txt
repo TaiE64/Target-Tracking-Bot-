@@ -1,0 +1,10 @@
+AntobotSDK/antobot_localisation/antobot_gps
+/home/taie/Desktop/Antobot/devel/.private/antobot_gps/lib/antobot_gps/ublox_gps.py /home/taie/Desktop/Antobot/devel/lib/antobot_gps/ublox_gps.py
+/home/taie/Desktop/Antobot/devel/.private/antobot_gps/lib/antobot_gps/core.py /home/taie/Desktop/Antobot/devel/lib/antobot_gps/core.py
+/home/taie/Desktop/Antobot/devel/.private/antobot_gps/lib/antobot_gps/sparkfun_predefines.py /home/taie/Desktop/Antobot/devel/lib/antobot_gps/sparkfun_predefines.py
+/home/taie/Desktop/Antobot/devel/.private/antobot_gps/lib/antobot_gps/antobot_gps_node.py /home/taie/Desktop/Antobot/devel/lib/antobot_gps/antobot_gps_node.py
+/home/taie/Desktop/Antobot/devel/.private/antobot_gps/lib/antobot_gps/gps_config.py /home/taie/Desktop/Antobot/devel/lib/antobot_gps/gps_config.py
+/home/taie/Desktop/Antobot/devel/.private/antobot_gps/lib/python3/dist-packages/antobot_gps/__init__.py /home/taie/Desktop/Antobot/devel/lib/python3/dist-packages/antobot_gps/__init__.py
+/home/taie/Desktop/Antobot/devel/.private/antobot_gps/lib/pkgconfig/antobot_gps.pc /home/taie/Desktop/Antobot/devel/lib/pkgconfig/antobot_gps.pc
+/home/taie/Desktop/Antobot/devel/.private/antobot_gps/share/antobot_gps/cmake/antobot_gpsConfig.cmake /home/taie/Desktop/Antobot/devel/share/antobot_gps/cmake/antobot_gpsConfig.cmake
+/home/taie/Desktop/Antobot/devel/.private/antobot_gps/share/antobot_gps/cmake/antobot_gpsConfig-version.cmake /home/taie/Desktop/Antobot/devel/share/antobot_gps/cmake/antobot_gpsConfig-version.cmake

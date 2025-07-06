@@ -1,0 +1,5 @@
+AntobotSDK/antobot_teleop/antobot_tel_joy/joystick_drivers/joy
+/home/taie/Desktop/Antobot/devel/.private/joy/lib/joy/joy_node /home/taie/Desktop/Antobot/devel/lib/joy/joy_node
+/home/taie/Desktop/Antobot/devel/.private/joy/lib/pkgconfig/joy.pc /home/taie/Desktop/Antobot/devel/lib/pkgconfig/joy.pc
+/home/taie/Desktop/Antobot/devel/.private/joy/share/joy/cmake/joyConfig.cmake /home/taie/Desktop/Antobot/devel/share/joy/cmake/joyConfig.cmake
+/home/taie/Desktop/Antobot/devel/.private/joy/share/joy/cmake/joyConfig-version.cmake /home/taie/Desktop/Antobot/devel/share/joy/cmake/joyConfig-version.cmake

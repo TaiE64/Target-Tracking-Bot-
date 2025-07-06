@@ -1,0 +1,4 @@
+AntobotSDK/antobot_hmi
+/home/taie/Desktop/Antobot/devel/.private/antobot_hmi/lib/pkgconfig/antobot_hmi.pc /home/taie/Desktop/Antobot/devel/lib/pkgconfig/antobot_hmi.pc
+/home/taie/Desktop/Antobot/devel/.private/antobot_hmi/share/antobot_hmi/cmake/antobot_hmiConfig.cmake /home/taie/Desktop/Antobot/devel/share/antobot_hmi/cmake/antobot_hmiConfig.cmake
+/home/taie/Desktop/Antobot/devel/.private/antobot_hmi/share/antobot_hmi/cmake/antobot_hmiConfig-version.cmake /home/taie/Desktop/Antobot/devel/share/antobot_hmi/cmake/antobot_hmiConfig-version.cmake

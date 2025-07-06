@@ -1,0 +1,4 @@
+AntobotSDK/antobot_teleop/antobot_tel
+/home/taie/Desktop/Antobot/devel/.private/antobot_tel/lib/pkgconfig/antobot_tel.pc /home/taie/Desktop/Antobot/devel/lib/pkgconfig/antobot_tel.pc
+/home/taie/Desktop/Antobot/devel/.private/antobot_tel/share/antobot_tel/cmake/antobot_telConfig.cmake /home/taie/Desktop/Antobot/devel/share/antobot_tel/cmake/antobot_telConfig.cmake
+/home/taie/Desktop/Antobot/devel/.private/antobot_tel/share/antobot_tel/cmake/antobot_telConfig-version.cmake /home/taie/Desktop/Antobot/devel/share/antobot_tel/cmake/antobot_telConfig-version.cmake

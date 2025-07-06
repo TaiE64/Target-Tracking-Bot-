@@ -1,0 +1,8 @@
+\subsubsection usage Usage
+\verbatim
+<node name="antobot_safety" pkg="antobot_safety" type="antobot_safety">
+  <param name="yaml_cfg_file" type="str" value="" />
+  <param name="yaml_cfg_data" type="str" value="" />
+</node>
+\endverbatim
+

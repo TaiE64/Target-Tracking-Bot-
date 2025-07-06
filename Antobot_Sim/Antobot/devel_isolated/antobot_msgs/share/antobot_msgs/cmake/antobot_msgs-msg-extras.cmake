@@ -1,0 +1,2 @@
+set(antobot_msgs_MESSAGE_FILES "/home/taie/Desktop/Antobot/src/AntobotSDK/antobot_msgs/msg/Float32_Array.msg;/home/taie/Desktop/Antobot/src/AntobotSDK/antobot_msgs/msg/UInt8_Array.msg;/home/taie/Desktop/Antobot/src/AntobotSDK/antobot_msgs/msg/UInt16_Array.msg")
+set(antobot_msgs_SERVICE_FILES "/home/taie/Desktop/Antobot/src/AntobotSDK/antobot_msgs/srv/camManager.srv;/home/taie/Desktop/Antobot/src/AntobotSDK/antobot_msgs/srv/softShutdown.srv;/home/taie/Desktop/Antobot/src/AntobotSDK/antobot_msgs/srv/antoRec.srv")

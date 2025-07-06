@@ -1,0 +1,5 @@
+vision_yolo
+/home/taie/Desktop/Antobot/devel/.private/vision_yolo/lib/vision_yolo/yolo_vision_node.py /home/taie/Desktop/Antobot/devel/lib/vision_yolo/yolo_vision_node.py
+/home/taie/Desktop/Antobot/devel/.private/vision_yolo/lib/pkgconfig/vision_yolo.pc /home/taie/Desktop/Antobot/devel/lib/pkgconfig/vision_yolo.pc
+/home/taie/Desktop/Antobot/devel/.private/vision_yolo/share/vision_yolo/cmake/vision_yoloConfig-version.cmake /home/taie/Desktop/Antobot/devel/share/vision_yolo/cmake/vision_yoloConfig-version.cmake
+/home/taie/Desktop/Antobot/devel/.private/vision_yolo/share/vision_yolo/cmake/vision_yoloConfig.cmake /home/taie/Desktop/Antobot/devel/share/vision_yolo/cmake/vision_yoloConfig.cmake

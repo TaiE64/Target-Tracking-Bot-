@@ -1,0 +1,4 @@
+AntobotSDK/antobot_descriptions/antobot_description
+/home/taie/Desktop/Antobot/devel/.private/antobot_description/lib/pkgconfig/antobot_description.pc /home/taie/Desktop/Antobot/devel/lib/pkgconfig/antobot_description.pc
+/home/taie/Desktop/Antobot/devel/.private/antobot_description/share/antobot_description/cmake/antobot_descriptionConfig-version.cmake /home/taie/Desktop/Antobot/devel/share/antobot_description/cmake/antobot_descriptionConfig-version.cmake
+/home/taie/Desktop/Antobot/devel/.private/antobot_description/share/antobot_description/cmake/antobot_descriptionConfig.cmake /home/taie/Desktop/Antobot/devel/share/antobot_description/cmake/antobot_descriptionConfig.cmake

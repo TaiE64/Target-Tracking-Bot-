@@ -1,0 +1,4 @@
+AntobotSDK/antobot_teleop/antobot_tel_joy/antobot_joystick_teleop
+/home/taie/Desktop/Antobot/devel/.private/antobot_joystick_teleop/lib/pkgconfig/antobot_joystick_teleop.pc /home/taie/Desktop/Antobot/devel/lib/pkgconfig/antobot_joystick_teleop.pc
+/home/taie/Desktop/Antobot/devel/.private/antobot_joystick_teleop/share/antobot_joystick_teleop/cmake/antobot_joystick_teleopConfig-version.cmake /home/taie/Desktop/Antobot/devel/share/antobot_joystick_teleop/cmake/antobot_joystick_teleopConfig-version.cmake
+/home/taie/Desktop/Antobot/devel/.private/antobot_joystick_teleop/share/antobot_joystick_teleop/cmake/antobot_joystick_teleopConfig.cmake /home/taie/Desktop/Antobot/devel/share/antobot_joystick_teleop/cmake/antobot_joystick_teleopConfig.cmake

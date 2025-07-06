@@ -1,0 +1,5 @@
+ros-imu-bno055
+/home/taie/Desktop/Antobot/devel/.private/imu_bno055/lib/imu_bno055/bno055_i2c_node /home/taie/Desktop/Antobot/devel/lib/imu_bno055/bno055_i2c_node
+/home/taie/Desktop/Antobot/devel/.private/imu_bno055/lib/pkgconfig/imu_bno055.pc /home/taie/Desktop/Antobot/devel/lib/pkgconfig/imu_bno055.pc
+/home/taie/Desktop/Antobot/devel/.private/imu_bno055/share/imu_bno055/cmake/imu_bno055Config-version.cmake /home/taie/Desktop/Antobot/devel/share/imu_bno055/cmake/imu_bno055Config-version.cmake
+/home/taie/Desktop/Antobot/devel/.private/imu_bno055/share/imu_bno055/cmake/imu_bno055Config.cmake /home/taie/Desktop/Antobot/devel/share/imu_bno055/cmake/imu_bno055Config.cmake
