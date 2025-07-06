@@ -60,44 +60,4 @@ roslaunch ekf_tracker ekf_tracker.launch
 roslaunch apf_navigator apf_navigator.launch
 ```
 
-## 🐞 Known Issue: APF Angular Velocity NaN
-
-In the `apf_navigator` module, the angular velocity (`omega`) occasionally becomes `NaN`, which can affect robot movement.
-
-### 📌 Root Cause
-
-The issue occurs when computing:
-
-```python
-omega = np.arctan2(F_y, F_x)
-```
-
-`NaN` arises if both `F_x` and `F_y` are invalid (`NaN`, `inf`, or exactly `0`).
-
-### 🧠 Possible Reasons
-
-- **Total force `F_total` is zero**  
-  - Rare, but can happen when all attractive and repulsive forces cancel out.
-  
-- **`self.target_pos` is NaN**  
-  - Caused by invalid conversion from pixel coordinates to 3D space.  
-  - ✅ Already mitigated by using the **last valid depth** when depth data is `NaN`.
-
-- **Repulsive force explosion**  
-  - May result from division by zero (e.g., when obstacle distance is nearly zero).
-
----
-
-### 🛠️ Temporary Fix
-
-Currently, if `omega` is detected as `NaN`, the system uses the **last valid angular velocity** to maintain continuity.  
-> ⚠️ This fallback has not yet been tested on real hardware.
-
----
-
-### 🚧 Notes
-
-- Simulation and Real-World Deployment code may differ slightly.  
-- The **real-world version** is the latest.
-
 
