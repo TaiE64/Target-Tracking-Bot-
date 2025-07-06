@@ -29,9 +29,7 @@ Antobot/
 > ✅ Custom packages: `apf_navigator`, `ekf_tracker`, `vision_yolo`  
 > 📦 External dependencies cloned from AntobotSDK and device vendors
 
-## 🧪 Simulation
-
-The simulation environment is included in the `Antobot_Sim.zip` package.
+## 🧪 Simulation  
 
 ### 🔧 Build the workspace
 
